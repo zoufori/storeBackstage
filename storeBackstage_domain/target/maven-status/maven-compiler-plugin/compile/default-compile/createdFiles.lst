@@ -1,0 +1,9 @@
+com\jimmy\domain\AAdmin.class
+com\jimmy\domain\ARoles.class
+com\jimmy\domain\UGoodsSell.class
+com\jimmy\domain\UGoodsType.class
+com\jimmy\domain\UComment.class
+com\jimmy\domain\ANav.class
+com\jimmy\domain\UOrders.class
+com\jimmy\domain\UGoods.class
+com\jimmy\domain\UUsers.class
