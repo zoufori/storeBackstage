@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3208fd4a-183e-4a0a-9be7-26a67dc724d6" name="Default Changelist" comment="" />
+    <list default="true" id="3208fd4a-183e-4a0a-9be7-26a67dc724d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -51,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -157,6 +165,15 @@
       <workItem from="1588918307883" duration="12628000" />
       <workItem from="1588988015177" duration="3348000" />
       <workItem from="1589007448499" duration="13357000" />
+      <workItem from="1591597937942" duration="2318000" />
+      <workItem from="1591672592698" duration="598000" />
+      <workItem from="1591752573885" duration="598000" />
+      <workItem from="1591851047719" duration="598000" />
+      <workItem from="1591925200035" duration="619000" />
+      <workItem from="1592184071380" duration="592000" />
+      <workItem from="1592273418054" duration="1187000" />
+      <workItem from="1592359117118" duration="7433000" />
+      <workItem from="1592366684633" duration="591000" />
     </task>
     <servers />
   </component>

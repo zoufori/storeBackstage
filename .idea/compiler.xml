@@ -9,8 +9,8 @@
         <module name="storeBackstage_utils" />
         <module name="storeBackstage_dao" />
         <module name="storeBackstage_service" />
-        <module name="storeBackstage_domain" />
         <module name="storeBackstage_web" />
+        <module name="storeBackstage_domain" />
       </profile>
     </annotationProcessing>
   </component>
